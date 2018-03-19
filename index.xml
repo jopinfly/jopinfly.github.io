@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Nerv</title>
     <link>https://jopinfly.github.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Nerv</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 19 Mar 2018 11:20:20 +0800</lastBuildDate>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 19 Mar 2018 11:19:08 +0800</lastBuildDate>
     
 	<atom:link href="https://jopinfly.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Firstpost</title>
-      <link>https://jopinfly.github.io/post/firstpost/</link>
-      <pubDate>Mon, 19 Mar 2018 11:20:20 +0800</pubDate>
-      
-      <guid>https://jopinfly.github.io/post/firstpost/</guid>
-      <description> hello hugo  aaa bbb ccc  </description>
-    </item>
     
     <item>
       <title>About</title>
@@ -26,7 +17,7 @@
       <pubDate>Mon, 19 Mar 2018 11:19:08 +0800</pubDate>
       
       <guid>https://jopinfly.github.io/about/</guid>
-      <description>#Hello Hugo ##Hahaha</description>
+      <description>God is in his heaven, all&amp;rsquo;s right with the world.</description>
     </item>
     
   </channel>
