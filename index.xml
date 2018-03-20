@@ -7,20 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>All rights reserved - 2018</copyright>
-    <lastBuildDate>Mon, 19 Mar 2018 11:19:08 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 20 Mar 2018 17:36:39 +0800</lastBuildDate>
     
 	<atom:link href="https://jopinfly.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>https://jopinfly.github.io/blog/2018/03/19/about/</link>
-      <pubDate>Mon, 19 Mar 2018 11:19:08 +0800</pubDate>
+      <title>基于Swift的小型编译器实战</title>
+      <link>https://jopinfly.github.io/blog/2018/03/20/%E5%9F%BA%E4%BA%8Eswift%E7%9A%84%E5%B0%8F%E5%9E%8B%E7%BC%96%E8%AF%91%E5%99%A8%E5%AE%9E%E6%88%98/</link>
+      <pubDate>Tue, 20 Mar 2018 17:36:39 +0800</pubDate>
       
-      <guid>https://jopinfly.github.io/blog/2018/03/19/about/</guid>
+      <guid>https://jopinfly.github.io/blog/2018/03/20/%E5%9F%BA%E4%BA%8Eswift%E7%9A%84%E5%B0%8F%E5%9E%8B%E7%BC%96%E8%AF%91%E5%99%A8%E5%AE%9E%E6%88%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://jopinfly.github.io/blog/2018/03/18/about/</link>
+      <pubDate>Sun, 18 Mar 2018 11:19:08 +0800</pubDate>
+      
+      <guid>https://jopinfly.github.io/blog/2018/03/18/about/</guid>
       <description>嗨，我是Jopin，一名iOS开发工程师，现居成都，就职于比特大陆。 目前主要从事加密货币钱包，加密货币跨境交易平台及网贷软件的开发。
 开源项目 我发起或参与了一些开源项目，希望感兴趣的朋友都能参与其中。 1. 崩溃保护 2. 编译器实战 3. Swift-Categories
-可以通过以下方式找到我 e-mail：jopinfly@163.com weChat: jopinflyyy GitHub: github.com/jopinfly</description>
+阅读清单 可以通过以下方式找到我 e-mail：jopinfly@163.com weChat: jopinflyyy GitHub: github.com/jopinfly</description>
     </item>
     
   </channel>

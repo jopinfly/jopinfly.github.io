@@ -3,8 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jopinfly.github.io/blog/2018/03/19/about/</loc>
-    <lastmod>2018-03-19T11:19:08+08:00</lastmod>
+    <loc>https://jopinfly.github.io/blog/2018/03/20/%E5%9F%BA%E4%BA%8Eswift%E7%9A%84%E5%B0%8F%E5%9E%8B%E7%BC%96%E8%AF%91%E5%99%A8%E5%AE%9E%E6%88%98/</loc>
+    <lastmod>2018-03-20T17:36:39+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jopinfly.github.io/blog/2018/03/18/about/</loc>
+    <lastmod>2018-03-18T11:19:08+08:00</lastmod>
   </url>
   
   <url>
@@ -14,25 +19,37 @@
   
   <url>
     <loc>https://jopinfly.github.io/</loc>
-    <lastmod>2018-03-19T11:19:08+08:00</lastmod>
+    <lastmod>2018-03-20T17:36:39+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jopinfly.github.io/post/</loc>
-    <lastmod>2018-03-19T11:19:08+08:00</lastmod>
+    <lastmod>2018-03-20T17:36:39+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jopinfly.github.io/categories/swift/</loc>
+    <lastmod>2018-03-20T17:36:39+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jopinfly.github.io/categories/%E4%BB%8B%E7%BB%8D/</loc>
-    <lastmod>2018-03-19T11:19:08+08:00</lastmod>
+    <lastmod>2018-03-18T11:19:08+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jopinfly.github.io/categories/%E7%BC%96%E8%AF%91/</loc>
+    <lastmod>2018-03-20T17:36:39+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jopinfly.github.io/categories/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/</loc>
-    <lastmod>2018-03-19T11:19:08+08:00</lastmod>
+    <lastmod>2018-03-18T11:19:08+08:00</lastmod>
     <priority>0</priority>
   </url>
   
