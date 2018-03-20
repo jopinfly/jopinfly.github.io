@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jopinfly.github.io/post/about/</loc>
+    <loc>https://jopinfly.github.io/blog/2018/03/19/about/</loc>
     <lastmod>2018-03-19T11:19:08+08:00</lastmod>
   </url>
   
@@ -25,12 +25,13 @@
   </url>
   
   <url>
-    <loc>https://jopinfly.github.io/tags/</loc>
+    <loc>https://jopinfly.github.io/categories/%E4%BB%8B%E7%BB%8D/</loc>
+    <lastmod>2018-03-19T11:19:08+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jopinfly.github.io/tags/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/</loc>
+    <loc>https://jopinfly.github.io/categories/%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F/</loc>
     <lastmod>2018-03-19T11:19:08+08:00</lastmod>
     <priority>0</priority>
   </url>
