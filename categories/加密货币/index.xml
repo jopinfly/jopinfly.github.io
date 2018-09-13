@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>加密货币 on Home</title>
+    <link>https://jopinfly.github.io/categories/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/</link>
+    <description>Recent content in 加密货币 on Home</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>All rights reserved - 2018</copyright>
+    <lastBuildDate>Wed, 21 Mar 2018 10:51:10 +0800</lastBuildDate>
+    
+	<atom:link href="https://jopinfly.github.io/categories/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>区块链钱包-预备！</title>
+      <link>https://jopinfly.github.io/blog/2018/03/21/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%92%B1%E5%8C%85-%E9%A2%84%E5%A4%87/</link>
+      <pubDate>Wed, 21 Mar 2018 10:51:10 +0800</pubDate>
+      
+      <guid>https://jopinfly.github.io/blog/2018/03/21/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%92%B1%E5%8C%85-%E9%A2%84%E5%A4%87/</guid>
+      <description>在正式进入钱包开发之前，我们需要做一些准备
+什么是加密货币 加密货币是一种使用密码学原理来确保交易安全及控制交易单位创造出的交易媒介，其基于去中心化的共识机制，与依赖中心化监管体系的银行金融系统相对。 以比特币为例，其作为一种货币单位用于存储和传输比特币网络中参与者之间的价值，用户可以通过网络传输比特币，就像操作常规货币一样去完成交易。作为一种分布式对等系统，在没有中央服务器或控制后台的情况下，比特币是通过发行新币来激励用户贡献自己计算机的处理能力来验证和记录其余的交易，这种分散了中央银行货币发行和结算能力的过程，被形象的称为“挖矿”。 &amp;gt; * dsds
+什么是区块链钱包 区块链钱包作为一种电子钱包，管理着你的虚拟财产，是将你和区块链连接起来的入口。一般来说，钱包会完全的访问你的私有财产，即你需要向钱包提供你的私钥，相当于将你的银行账号和密码都提供给了一无所知的第三方，可想而知，钱包的作恶成本极低。所以，大家都会选择使用开源钱包。 当然咯，自己开发一个也是极好的。
+要用到什么技术 Swift赛高！</description>
+    </item>
+    
+  </channel>
+</rss>
