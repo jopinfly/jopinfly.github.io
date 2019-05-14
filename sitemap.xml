@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jopinfly.github.io/blog/2019/05/13/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%92%B1%E5%8C%85-%E7%A7%81%E9%92%A5%E4%B8%8E%E5%9C%B0%E5%9D%80/</loc>
+    <lastmod>2019-05-13T10:51:10+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jopinfly.github.io/blog/2018/03/21/%E5%8C%BA%E5%9D%97%E9%93%BE%E9%92%B1%E5%8C%85-%E9%A2%84%E5%A4%87/</loc>
     <lastmod>2018-03-21T10:51:10+08:00</lastmod>
   </url>
@@ -24,13 +29,13 @@
   
   <url>
     <loc>https://jopinfly.github.io/</loc>
-    <lastmod>2018-03-21T10:51:10+08:00</lastmod>
+    <lastmod>2019-05-13T10:51:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jopinfly.github.io/post/</loc>
-    <lastmod>2018-03-21T10:51:10+08:00</lastmod>
+    <lastmod>2019-05-13T10:51:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -48,13 +53,13 @@
   
   <url>
     <loc>https://jopinfly.github.io/categories/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81/</loc>
-    <lastmod>2018-03-21T10:51:10+08:00</lastmod>
+    <lastmod>2019-05-13T10:51:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jopinfly.github.io/categories/%E5%8C%BA%E5%9D%97%E9%93%BE/</loc>
-    <lastmod>2018-03-21T10:51:10+08:00</lastmod>
+    <lastmod>2019-05-13T10:51:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -72,7 +77,7 @@
   
   <url>
     <loc>https://jopinfly.github.io/categories/%E9%92%B1%E5%8C%85/</loc>
-    <lastmod>2018-03-21T10:51:10+08:00</lastmod>
+    <lastmod>2019-05-13T10:51:10+08:00</lastmod>
     <priority>0</priority>
   </url>
   

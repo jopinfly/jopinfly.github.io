@@ -19,8 +19,7 @@
       
       <guid>https://jopinfly.github.io/blog/2018/03/18/about/</guid>
       <description>嗨，我是Jopin，一名iOS开发工程师，现居成都，就职于比特大陆。 目前主要从事加密货币钱包，加密货币跨境交易平台及网贷软件的开发。
-开源项目 我发起或参与了一些开源项目，希望感兴趣的朋友都能参与其中。 1. 崩溃保护 2. 编译器实战 3. Swift-Categories
-阅读清单 可以通过以下方式找到我 e-mail：jopinfly@163.com weChat: jopinflyyy GitHub: github.com/jopinfly</description>
+项目经历  传说/传说商家版 tag: 电商、IM 吉利汽车-驾驶模拟系统 tag: 动画开发 小鱼现金 tag: 模块化、多团队合作 -&amp;gt; 浙江泰隆商业银行驻场开发 -&amp;gt; 参加了绿盟科技为期两周的安全代码培训，对iOS端反编译、防调试等逆向手段有了一定的认识 -&amp;gt; 多团队合作，注重接口设计 贷款网签SDK tag: SDK开发 -&amp;gt; 使用socket+protobuffer自定义请求协议，进行网络通讯，安全快速节省流量 -&amp;gt; 利用cocoaPods私有发布特性进行组件化开发 -&amp;gt; 自定义描述语言及完成对应的解析器，实现前端界面可后台配置化 -&amp;gt; 使用OpenCV进行图像处理，完成了身份证判定，活体检测等功能；在后期接入了旷视人脸识别SDK -&amp;gt; 自定义数据采集模块，支持连续位置信息采集、敏感位置报警等 -&amp;gt; 贷款SDK累计接入50余款App，在线上稳定运行，表现出色，为公司带来了可观的收益 iBitcome钱包 tag: 区块链、分布式、安全性 -&amp;gt; 多链接入 -&amp;gt; 面向对象的网络库 -&amp;gt; Bitcoin、BitcoinCash、Ethereum、EOS、ZCash、DCR&amp;hellip; -&amp;gt; 支持各链的交易、发币、众筹等功能 -&amp;gt; 逐步接入了非常多的主链，各链情况不尽相同；经过反复重构打磨，对数据抽象、基类、面向协议、泛型等有了新的认识 -&amp;gt; 参与github web3swift库 -&amp;gt; 国内区块链开发缺乏社区支持，基本靠英文文档进行各技术点学习，在技术分享会上积极发言，发表自己的见解 -&amp;gt; 精通区块链体系在前端的处理逻辑，可开发适配主流链的通用封装 -&amp;gt; DEx.top分布式交易所 -&amp;gt; 与公司DEx.top团队密切合作，磋商实现细节，给交易所提供了良好的可视化操作界面 -&amp;gt; Whormhole协议 -&amp;gt; 与公司虫洞团队密切合作，磋商实现细节，给交易所提供了良好的可视化操作界面 -&amp;gt; DGateway协议 -&amp;gt; 协助实现BCH价值映射到Ethereum -&amp;gt; 接入各主流DApp，使用了Hybird，JS交互等技术 -&amp;gt; 聚合交易所，接入火币、币安等平台 -&amp;gt; 积极参与安全测试，在与公司内部安全团队，外部如慢雾科技等资深白帽子的交流中，了解了前端黑领域主流的攻击套路，并在实际攻防实践中，完善了自己的安全代码思想(防hook，防调试，双向tls验证防抓包)</description>
     </item>
     
   </channel>

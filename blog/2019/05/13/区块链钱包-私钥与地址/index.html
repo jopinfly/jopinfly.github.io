@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>区块链钱包-私钥与地址 &middot; Nerv</title>
+
+  
+  <link rel="stylesheet" href="https://jopinfly.github.io/css/poole.css">
+  <link rel="stylesheet" href="https://jopinfly.github.io/css/hyde.css">
+  <link rel="stylesheet" href="https://jopinfly.github.io/css/poole-overrides.css">
+  <link rel="stylesheet" href="https://jopinfly.github.io/css/hyde-overrides.css">
+  <link rel="stylesheet" href="https://jopinfly.github.io/css/hyde-x.css">
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://jopinfly.github.io/touch-icon-144-precomposed.png">
+  <link href="https://jopinfly.github.io/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="芝麻开门！">
+  <meta name="keywords" content="your,default,page,keywords">
+  
+</head>
+<body>
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+      <h1>Nerv</h1>
+      <p class="lead">生了一堆火并在旁边高喊：我在这儿！我在这儿！</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item"><a href="https://jopinfly.github.io/">Home</a></li>
+      
+      <li class="sidebar-nav-item"><a href="https://jopinfly.github.io/blog/2018/03/18/about/">About</a></li>
+      
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/jopinfly"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      
+      
+      
+      
+      
+      
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2019 
+
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1 class="post-title">区块链钱包-私钥与地址</h1>
+    <span class="post-date">May 13, 2019 
+    
+    <br/>
+    <a class="label" href="https://jopinfly.github.io/categories/%E5%8C%BA%E5%9D%97%E9%93%BE">区块链</a><a class="label" href="https://jopinfly.github.io/categories/%E5%8A%A0%E5%AF%86%E8%B4%A7%E5%B8%81">加密货币</a><a class="label" href="https://jopinfly.github.io/categories/%E9%92%B1%E5%8C%85">钱包</a>
+    </span>
+    
+
+<h2 id="私钥">私钥</h2>
+
+<p>私钥(yuè)本质上是一个<strong>256位随机数</strong>。</br>
+那么什么是256位随机数呢？首先256位是指由256个0或1组成，如：<code>1001001010001...</code>，其次随机是指某一位上是0或1是随机没有规律的。举个例子，A想获得一个独属于自己的比特币私钥，那么他可以通过掷硬币来生成，正面朝上是1，反面朝上是0，掷了256次之后，他得到了一个数字序列，即为A的私钥。</br>
+看到这里，你可能会想，私钥的规则也太随意了吧，我随便写个数，只要不超过最大值，就是一个私钥？或者万一别人随机出了我的私钥，不是可以把我的资产拿走吗？</br>
+你想的没错，以上两个问题的答案都是肯定的&hellip;</br>
+但是，即使私钥只是一个数字，它仍然非常非常非常难以被破解！<strong>它的安全性来自于它包含的数字集合非常大，大到难以去穷尽所有数字，并进行一一验证。</strong>即使存在客观的重复的概率，但我们仍然可以称私钥<strong>在密码学上是安全的</strong>。如果你仍然心存疑虑，那么我们可以感性的感受下：</br>
+○ 私钥共有2^256个可能，近似于10⁷⁷。</br>
+○ 到目前为止，人类可观测的宇宙中的原子数约为10⁸⁰；</br>
+○ &ldquo;双色球&rdquo;一等奖的中奖概率是8×10ˉ⁸；</br>
+ok，我们现在知道了比特币的安全来自于非常<strong>严格的随机性</strong>，可以说我们选取的随机算法的强度影响了我们资产的安全性。使用一个可能会被预测的随机算法，不如掷硬币&hellip;</p>
+
+<h4 id="tips">Tips！</h4>
+
+<p>如前文所述，私钥的本体就是一个数字，本身是不容易记忆和抄录的。为了便于使用，大部分钱包会对私钥进行编码，方便用户进行导入导出操作。目前主流的格式有HEX、WIF、WIF-compressed等。</p>
+
+<h2 id="地址">地址</h2>
+
+<p>在传统银行用户模型中，用户需要账号+密码来操控自己的资产。而在比特币体系中，资产其实是存在每个私钥下的，用户<strong>只需要私钥</strong>即可以完全操控自己的资产。私钥的隐私性太强，是不可能让别人得知的，那么如何实现在不暴露自己私钥的前提下，让别人给自己转账呢？地址应运而生。</br>
+通过椭圆曲线算法（ECDSA），私钥可以计算出一个<strong>唯一且不可逆的</strong>公钥， 公钥通过特定的哈希计算得到公钥哈希，在对公钥哈希进行编码，即可得到地址。简单来说，因为公钥本身太长了，不利于交易的进行，所以通过一些变换得到地址。地址就是公钥的一种<strong>表现</strong>形式。</br>
+在比特币体系中，生成一个地址的流程大致为：</br>
+<img src="/images/bcw2image1.png" alt="" />
+可以看出，比特币用于公开交易的地址是由公钥进行一系列数学计算得来的。顺理成章的，如果改变其中的哈希算法或者编码方式，就可以得到一个不同的结果，也就是一个新地址！这个特性使得一个私钥管理多种加密货币变为可能：</br>
+○ A私钥-&gt;A公钥-<code>比特币地址算法</code>-&gt;比特币地址</br>
+○ A私钥-&gt;A公钥-<code>以太坊地址算法</code>-&gt;以太坊地址</br>
+○ &hellip;</br></p>
+
+<h4 id="tips-1">Tips！</h4>
+
+<p>为什么比特币地址要采用Base58编码呢？与Base64的是，Base58去掉了几个看起来可能会产生歧义的字母，如0(零)、O(大写字母O)、I(大写的字母i) 和 l(小写的字母L)，以及两个影响双击选择的字符，如/和+。在设计层面尽可能降低地址输错带来的资金损失。</p>
+
+  </div>
+  
+</div>
+
+
+
+
+
+</body>
+</html>
+
